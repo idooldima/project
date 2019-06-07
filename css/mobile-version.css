@@ -1,0 +1,9 @@
+@media (min-width: 0px) and (max-width: 1150px) {
+  .imgs-advantage {
+    display: none;
+  }
+  .list-avantage {
+    margin-left: 0px;
+    width: 100%;
+  }
+}
